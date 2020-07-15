@@ -1,4 +1,4 @@
-# Meeting-20200715
+# C3 July 15, 2020
 
 ## Exercise: Validate Parentheses
 
